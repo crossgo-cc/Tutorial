@@ -55,8 +55,6 @@
 
 观察 **「仪表盘」** 界面，当看到 **“网络检测”** 处的 IP 地址发生变化（显示为海外地区），且上方出现实时流量曲线时，说明您已成功开启加速。
 
-![连接成功界面](https://cdn.jsdelivr.net/gh/crossgo-cc/Tutorial@main/FlClash/Android/assets/9.png)
-
 ---
 
 **💡 进阶提示：**
