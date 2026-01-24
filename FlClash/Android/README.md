@@ -2,10 +2,32 @@
 
 ## 📥 第一部分：下载安装
 
-**建议：** 请根据您的网络环境选择下载源。
+### 下载 APK 安装包
 
-- **[官方 GitHub 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.91/FlClash-0.8.91-android-arm64-v8a.apk)** (推荐)
-- **[镜像加速下载](https://cdn.jsdelivr.net/gh/crossgo-cc/Tutorial@main/FlClash/Android/assets/FlClash-0.8.91-android-arm64-v8a.apk)** (备用)
+**重要提示：** 由于 GitHub 服务器位于海外，国内用户可能会遇到以下问题：
+- ⚠️ 下载速度极慢（几 KB/s 甚至无法连接）
+- ⚠️ 部分地区网络完全无法访问 GitHub
+- ⚠️ 下载过程中频繁中断或失败
+
+**解决方案：** 我们提供了两个下载源，请根据您的网络情况选择：
+
+#### 方式一：官方 GitHub 下载（海外网络推荐）
+
+- **下载链接：** [FlClash-0.8.91-android-arm64-v8a.apk](https://github.com/chen08209/FlClash/releases/download/v0.8.91/FlClash-0.8.91-android-arm64-v8a.apk)
+- **适用场景：** 网络可以正常访问 GitHub，或已使用其他代理工具
+- **优点：** 官方发布，版本最新最安全
+
+#### 方式二：CDN 镜像加速下载（国内网络推荐）
+
+- **下载链接：** [FlClash-0.8.91-android-arm64-v8a.apk](https://cdn.jsdmirror.com/gh/crossgo-cc/Tutorial@main/FlClash/Android/assets/FlClash-0.8.91-android-arm64-v8a.apk)
+- **适用场景：** 国内网络环境，GitHub 下载困难
+- **优点：** 国内 CDN 加速，下载速度快且稳定
+
+### 安装步骤
+
+1. **下载完成后**，在手机的"下载"文件夹或通知栏中找到 APK 文件
+2. **点击安装包**，如果系统提示"禁止安装未知来源应用"，请按照提示前往设置中允许安装
+3. **确认安装**，等待安装完成后点击"打开"即可启动应用
 
 ---
 
@@ -15,39 +37,39 @@
 
 1. 登录官网后台，在"捷径"栏点击 **「一键订阅」**。
 
-   ![点击一键订阅按钮](https://cdn.jsdelivr.net/gh/crossgo-cc/Tutorial@main/FlClash/Android/assets/1.png)
+   ![点击一键订阅按钮](https://cdn.jsdmirror.com/gh/crossgo-cc/Tutorial@main/FlClash/Android/assets/1.png)
 
 2. 在弹出菜单中选择 **「复制订阅地址」**（务必确保提示复制成功）。
 
-   ![复制订阅地址](https://cdn.jsdelivr.net/gh/crossgo-cc/Tutorial@main/FlClash/Android/assets/2.png)
+   ![复制订阅地址](https://cdn.jsdmirror.com/gh/crossgo-cc/Tutorial@main/FlClash/Android/assets/2.png)
 
 ### 步骤二：导入订阅到 App
 
 1. 打开 FlClash，点击底部的 **「配置」** 选项卡，然后点击右下角的 **「+」** 号。
 
-   ![点击配置页面的加号](https://cdn.jsdelivr.net/gh/crossgo-cc/Tutorial@main/FlClash/Android/assets/3.png)
+   ![点击配置页面的加号](https://cdn.jsdmirror.com/gh/crossgo-cc/Tutorial@main/FlClash/Android/assets/3.png)
 
 2. 在添加方式中选择 **「URL」** 选项。
 
-   ![选择 URL 选项](https://cdn.jsdelivr.net/gh/crossgo-cc/Tutorial@main/FlClash/Android/assets/4.png)
+   ![选择 URL 选项](https://cdn.jsdmirror.com/gh/crossgo-cc/Tutorial@main/FlClash/Android/assets/4.png)
 
 3. 在输入框内 **粘贴** 刚才复制的链接，点击 **「提交」** 即可完成导入。
 
-   ![粘贴订阅链接并提交](https://cdn.jsdelivr.net/gh/crossgo-cc/Tutorial@main/FlClash/Android/assets/5.png)
+   ![粘贴订阅链接并提交](https://cdn.jsdmirror.com/gh/crossgo-cc/Tutorial@main/FlClash/Android/assets/5.png)
 
 ### 步骤三：选择节点并启动
 
 1. 导入成功后，点击底部导航栏的 **「代理」** 图标。
 
-   ![点击代理图标](https://cdn.jsdelivr.net/gh/crossgo-cc/Tutorial@main/FlClash/Android/assets/6.png)
+   ![点击代理图标](https://cdn.jsdmirror.com/gh/crossgo-cc/Tutorial@main/FlClash/Android/assets/6.png)
 
 2. 点击展开订阅列表，在下方列表中 **点击选择** 一个您想使用的节点（例如香港或台湾）。
 
-   ![选择节点](https://cdn.jsdelivr.net/gh/crossgo-cc/Tutorial@main/FlClash/Android/assets/7.png)
+   ![选择节点](https://cdn.jsdmirror.com/gh/crossgo-cc/Tutorial@main/FlClash/Android/assets/7.png)
 
 3. 回到 **「仪表盘」** 页面，点击右下角的 **「播放」** 按钮开启代理。
 
-   ![点击播放按钮开启代理](https://cdn.jsdelivr.net/gh/crossgo-cc/Tutorial@main/FlClash/Android/assets/8.png)
+   ![点击播放按钮开启代理](https://cdn.jsdmirror.com/gh/crossgo-cc/Tutorial@main/FlClash/Android/assets/8.png)
 
 ---
 
