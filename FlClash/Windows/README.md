@@ -5,6 +5,7 @@
 ### 下载安装程序
 
 **重要提示：** 由于 GitHub 服务器位于海外，国内用户可能会遇到以下问题：
+
 - ⚠️ 下载速度极慢（几 KB/s 甚至无法连接）
 - ⚠️ 部分地区网络完全无法访问 GitHub
 - ⚠️ 下载过程中频繁中断或失败
@@ -19,7 +20,7 @@
 
 #### 方式二：CDN 镜像加速下载（国内网络推荐）
 
-- **下载链接：** [FlClash-0.8.91-windows-amd64-setup.exe](https://cdn.jsdmirror.com/gh/crossgo-cc/Tutorial@main/FlClash/Windows/assets/FlClash-0.8.91-windows-amd64-setup.exe)
+- **下载链接：** [FlClash-0.8.91-windows-amd64-setup.exe](https://cdn.jsdmirror.com/gh/crossgo-cc/Tutorial@main/FlClash/Windows/assets/0.8.91-windows-amd64-setup.exe)
 - **适用场景：** 国内网络环境，GitHub 下载困难
 - **优点：** 国内 CDN 加速，下载速度快且稳定
 
@@ -98,6 +99,7 @@
 ### 3. 常见问题
 
 **无法连接怎么办？**
+
 - 检查是否开启了 **「系统代理」** 开关。
 - 尝试在"代理"页面切换不同的节点。
 - 检查电脑系统时间是否准确（时间不同步会导致连接失败）。

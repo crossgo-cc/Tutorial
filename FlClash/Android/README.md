@@ -5,6 +5,7 @@
 ### 下载 APK 安装包
 
 **重要提示：** 由于 GitHub 服务器位于海外，国内用户可能会遇到以下问题：
+
 - ⚠️ 下载速度极慢（几 KB/s 甚至无法连接）
 - ⚠️ 部分地区网络完全无法访问 GitHub
 - ⚠️ 下载过程中频繁中断或失败
@@ -19,7 +20,7 @@
 
 #### 方式二：CDN 镜像加速下载（国内网络推荐）
 
-- **下载链接：** [FlClash-0.8.91-android-arm64-v8a.apk](https://cdn.jsdmirror.com/gh/crossgo-cc/Tutorial@main/FlClash/Android/assets/FlClash-0.8.91-android-arm64-v8a.apk)
+- **下载链接：** [FlClash-0.8.91-android-arm64-v8a.apk](https://cdn.jsdmirror.com/gh/crossgo-cc/Tutorial@main/FlClash/Android/assets/0.8.91-android-arm64-v8a.apk)
 - **适用场景：** 国内网络环境，GitHub 下载困难
 - **优点：** 国内 CDN 加速，下载速度快且稳定
 
@@ -93,6 +94,7 @@
 ### 3. 常见问题
 
 **无法连接怎么办？**
+
 - 尝试在"代理"页面切换不同的节点。
 - 在"配置"页面点击刷新图标，同步最新的服务器列表。
 - 检查手机系统时间是否准确（时间不同步会导致连接失败）。
