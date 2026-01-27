@@ -4,33 +4,20 @@
 
 ### 下载安装程序
 
-**重要提示：** 由于 GitHub 服务器位于海外，国内用户可能会遇到以下问题：
+> **⚠️ 国内用户请注意：** GitHub 服务器位于海外，可能出现下载缓慢、无法访问或频繁中断的情况。
+> **👉 推荐使用「镜像加速」下载。**
 
-- ⚠️ 下载速度极慢（几 KB/s 甚至无法连接）
-- ⚠️ 部分地区网络完全无法访问 GitHub
-- ⚠️ 下载过程中频繁中断或失败
-
-**解决方案：** 我们提供了两个下载源，请根据您的网络情况选择：
-
-#### 方式一：官方 GitHub 下载（海外网络推荐）
-
-- **下载链接：** [FlClash-0.8.91-windows-amd64-setup.exe](https://github.com/chen08209/FlClash/releases/download/v0.8.91/FlClash-0.8.91-windows-amd64-setup.exe)
-- **适用场景：** 网络可以正常访问 GitHub，或已使用其他代理工具
-- **优点：** 官方发布，版本最新最安全
-
-#### 方式二：CDN 镜像加速下载（国内网络推荐）
-
-- **下载链接：** [FlClash-0.8.91-windows-amd64-setup.exe](https://cdn.jsdmirror.com/gh/crossgo-cc/Tutorial@main/FlClash/Windows/assets/0.8.91-windows-amd64-setup.exe)
-- **适用场景：** 国内网络环境，GitHub 下载困难
-- **优点：** 国内 CDN 加速，下载速度快且稳定
+| 下载方式 | 下载链接 | 适用场景 |
+|:-------:|:--------:|:-------:|
+| **🚀 镜像加速** | [点击下载](https://gh-proxy.org/https://github.com/chen08209/FlClash/releases/download/v0.8.91/FlClash-0.8.91-windows-amd64-setup.exe) | 国内网络（推荐） |
+| **📦 官方 GitHub** | [点击下载](https://github.com/chen08209/FlClash/releases/download/v0.8.91/FlClash-0.8.91-windows-amd64-setup.exe) | 海外网络 / 已有代理 |
 
 ### 安装步骤
 
-1. **下载完成后**，双击运行 `.exe` 安装程序
-2. **Windows SmartScreen 提示**：如果出现"Windows 已保护你的电脑"提示，点击"更多信息"，然后点击"仍要运行"
-3. **用户账户控制**：如果弹出 UAC 权限请求，点击"是"允许安装
-4. **安装向导**：按照安装向导提示完成安装，建议使用默认安装路径
-5. **完成安装**：安装完成后勾选"启动 FlClash"，点击"完成"即可运行程序
+1. **运行安装程序** — 下载完成后，双击运行 `.exe` 安装包
+2. **SmartScreen 提示** — 若出现「Windows 已保护你的电脑」，点击「更多信息」→「仍要运行」
+3. **授权安装** — 若弹出 UAC 权限请求，点击「是」允许安装
+4. **完成安装** — 按照向导提示完成安装，建议使用默认路径，最后勾选「启动 FlClash」
 
 ---
 

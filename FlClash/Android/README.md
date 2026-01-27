@@ -4,31 +4,19 @@
 
 ### 下载 APK 安装包
 
-**重要提示：** 由于 GitHub 服务器位于海外，国内用户可能会遇到以下问题：
+> **⚠️ 国内用户请注意：** GitHub 服务器位于海外，可能出现下载缓慢、无法访问或频繁中断的情况。
+> **👉 推荐使用「镜像加速」下载。**
 
-- ⚠️ 下载速度极慢（几 KB/s 甚至无法连接）
-- ⚠️ 部分地区网络完全无法访问 GitHub
-- ⚠️ 下载过程中频繁中断或失败
-
-**解决方案：** 我们提供了两个下载源，请根据您的网络情况选择：
-
-#### 方式一：官方 GitHub 下载（海外网络推荐）
-
-- **下载链接：** [FlClash-0.8.91-android-arm64-v8a.apk](https://github.com/chen08209/FlClash/releases/download/v0.8.91/FlClash-0.8.91-android-arm64-v8a.apk)
-- **适用场景：** 网络可以正常访问 GitHub，或已使用其他代理工具
-- **优点：** 官方发布，版本最新最安全
-
-#### 方式二：CDN 镜像加速下载（国内网络推荐）
-
-- **下载链接：** [FlClash-0.8.91-android-arm64-v8a.apk](https://cdn.jsdmirror.com/gh/crossgo-cc/Tutorial@main/FlClash/Android/assets/0.8.91-android-arm64-v8a.apk)
-- **适用场景：** 国内网络环境，GitHub 下载困难
-- **优点：** 国内 CDN 加速，下载速度快且稳定
+| 下载方式 | 下载链接 | 适用场景 |
+|:-------:|:--------:|:-------:|
+| **🚀 镜像加速** | [点击下载](https://gh-proxy.org/https://github.com/chen08209/FlClash/releases/download/v0.8.91/FlClash-0.8.91-android-arm64-v8a.apk) | 国内网络（推荐） |
+| **📦 官方 GitHub** | [点击下载](https://github.com/chen08209/FlClash/releases/download/v0.8.91/FlClash-0.8.91-android-arm64-v8a.apk) | 海外网络 / 已有代理 |
 
 ### 安装步骤
 
-1. **下载完成后**，在手机的"下载"文件夹或通知栏中找到 APK 文件
-2. **点击安装包**，如果系统提示"禁止安装未知来源应用"，请按照提示前往设置中允许安装
-3. **确认安装**，等待安装完成后点击"打开"即可启动应用
+1. **找到安装包** — 下载完成后，在手机的「下载」文件夹或通知栏中找到 APK 文件
+2. **允许安装** — 点击安装包，若提示「禁止安装未知来源应用」，请按提示前往设置开启权限
+3. **完成安装** — 确认安装后等待完成，点击「打开」即可启动应用
 
 ---
 
